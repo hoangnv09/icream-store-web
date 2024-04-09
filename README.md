@@ -1,5 +1,5 @@
 # Screens
 
-## Screens for staff 
+## Screens for user 
 
-<img src="./Documents/HK2/Vuejs/img_icream/home.jpg" height="300em" alt="SplashScreen" title="SplashScreen">
+<img src="./Document/home.jpg" height="300em" alt="home" title="home">
