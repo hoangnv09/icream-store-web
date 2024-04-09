@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "email": "ngoctram4602@gmail.com",
+  "password": "$2a$10$4nUOq7HMJnx7At2dscFcvO3LPBFkUleG5DB1wKDVv5KQ5KQtsiaZa",
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "birthday": "2004-06-16",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "cart": [],
+  "gender": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDA3MmRlMmU5NDYxYmNkOGFkNWMyZiIsImlhdCI6MTcwMjI3NjgzOCwiZXhwIjoxNzAyMzYzMjM4fQ.xo744cUCnM5zB4lN1oQo1x6nCVCEnwzJOE9BEfHEZBE"
+},
+{
+  "_id": {
+    "$oid": "65467deb502f2157fe0c8e21"
+  },
+  "email": "ngoctram0246@gmail.com",
+  "password": "$2a$10$iykNz4nAHV/QRAgGtDTzre7qjZl0TX6zlIkVHO8CwH9N5SgibTnwO",
+  "name": "Hòa Diệp",
+  "phone": "0989765678",
+  "birthday": "2002-06-04",
+  "address": "Ấp Trường Khánh 2, Xã Long Thạnh",
+  "cart": [],
+  "gender": 0
+},
+{
+  "_id": {
+    "$oid": "65ddab71329672b4234b6674"
+  },
+  "email": "hoa@gmail.com",
+  "password": "$2a$08$rkql4UNDM9Fg0iMVZAC6juj3LUOoeS2Z0nFM069YzDd8jxkXzrw/a",
+  "name": "Hòa Hoa",
+  "phone": "098909898",
+  "birthday": "2002-02-15",
+  "gender": 0,
+  "address": "Phụng Hiệp, Hậu Giang",
+  "cart": [],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZGRhYjcxMzI5NjcyYjQyMzRiNjY3NCIsImlhdCI6MTcwOTAyNjE3MywiZXhwIjoxNzA5MTEyNTczfQ.BbjLqL190BfT1h6rhOagtIGKWO_kDrY5vTTZLpFppiA"
+},
+{
+  "_id": {
+    "$oid": "65e68bb48b5751a492948cc9"
+  },
+  "email": "ngoctram@gmail.com",
+  "password": "$2a$08$xy9pL3FjkEfd8om0OHxLI.S.7i/OLVTu8ad8YJE9GSJigRdBCUrxe",
+  "name": "Ngọc Trâm",
+  "phone": "0798067068",
+  "birthday": "2002-04-02",
+  "gender": 0,
+  "address": "Ninh Kiều, Cần Thơ",
+  "cart": [],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZTY4YmI0OGI1NzUxYTQ5Mjk0OGNjOSIsImlhdCI6MTcwOTYwNzg3NCwiZXhwIjoxNzA5Njk0Mjc0fQ.GYIToJ6hVzGxQ9RoXUktU9Zu0W9V-VE945vgcq00S8g"
+},
+{
+  "_id": {
+    "$oid": "65e692e98b5751a492948ccb"
+  },
+  "email": "hoahoa@gmail.com",
+  "password": "$2a$10$OJmAqzAlE63Tm7abhlnwa.EEBkrQIdQhGxvMWS7FzB5zs4X75HtNu",
+  "name": "Lá Lá",
+  "phone": "0798067099",
+  "birthday": "2014-02-06",
+  "gender": 0,
+  "address": "Cái Răng, Cần Thơ",
+  "cart": []
+},
+{
+  "_id": {
+    "$oid": "65e698ed8b5751a492948cd0"
+  },
+  "email": "ngoctram46@gmail.com",
+  "password": "$2a$08$Pmcdkx.Gc7JwTd8ygJJmP.y/RMcElFht8aY2nJvYstXR7J4qkbiJK",
+  "name": "Hoa Hoa",
+  "phone": "0798098098",
+  "birthday": "2024-03-22",
+  "gender": 0,
+  "address": "Cái Răng, Cần Thơ",
+  "cart": []
+}]

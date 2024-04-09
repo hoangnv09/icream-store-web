@@ -1,0 +1,473 @@
+[{
+  "_id": {
+    "$oid": "654f9f545ee80462e30ded38"
+  },
+  "customer_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "products": [
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Cornetto Vanilla",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto2.png",
+      "price": 16000,
+      "quantity_sale": 2,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 32000
+    },
+    {
+      "product_id": "654a3e9f2bb6c3a91d1d7c0b",
+      "name": "Creamdea Fruitty",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\creamdea3.png",
+      "price": 65000,
+      "quantity_sale": 1,
+      "category_id": "654076f562ca687c4200307e",
+      "subtotal": 65000
+    }
+  ],
+  "total": 117000,
+  "status": 4,
+  "created_at": "10:35:48 PM, 11/11/2023",
+  "updated_at": "10:37:20 PM, 11/11/2023",
+  "accept_at": "10:36:10 PM, 11/11/2023",
+  "ship_at": "10:36:59 PM, 11/11/2023",
+  "arrive_at": "10:37:20 PM, 11/11/2023"
+},
+{
+  "_id": {
+    "$oid": "655e1fd9c0922b1da84bde7a"
+  },
+  "customer_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "products": [
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Cornetto Vanilla",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto2.png",
+      "price": 16000,
+      "quantity_sale": 3,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 48000
+    },
+    {
+      "product_id": "654a3e9f2bb6c3a91d1d7c0b",
+      "name": "Creamdea Fruitty",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\creamdea3.png",
+      "price": 65000,
+      "quantity_sale": 1,
+      "category_id": "654076f562ca687c4200307e",
+      "subtotal": 65000
+    },
+    {
+      "product_id": "654a3f322bb6c3a91d1d7c0d",
+      "name": "Oreo Mint Frozen",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\oreo3.png",
+      "price": 80000,
+      "quantity_sale": 1,
+      "category_id": "654076db62ca687c4200307b",
+      "subtotal": 80000
+    }
+  ],
+  "total": 213000,
+  "status": 4,
+  "created_at": "10:35:53 PM, 22/11/2023",
+  "updated_at": "11:22:14 PM, 22/11/2023",
+  "accept_at": "11:07:54 PM, 22/11/2023",
+  "ship_at": "11:08:01 PM, 22/11/2023",
+  "arrive_at": "11:22:14 PM, 22/11/2023"
+},
+{
+  "_id": {
+    "$oid": "655e2b7fc0922b1da84bde7b"
+  },
+  "customer_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "products": [
+    {
+      "product_id": "65478df88a4b078c9177fb47",
+      "name": "Au Strawberry",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte3.png",
+      "price": 30000,
+      "quantity_sale": 1,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 30000
+    }
+  ],
+  "total": 50000,
+  "status": 3,
+  "created_at": "11:25:35 PM, 22/11/2023",
+  "updated_at": "07:56:26 AM, 23/11/2023",
+  "cancle_at": "07:56:26 AM, 23/11/2023"
+},
+{
+  "_id": {
+    "$oid": "655ea32cc0922b1da84bde7c"
+  },
+  "customer_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "products": [
+    {
+      "product_id": "65478df88a4b078c9177fb47",
+      "name": "Au Strawberry",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte3.png",
+      "price": 30000,
+      "quantity_sale": 1,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 30000
+    },
+    {
+      "product_id": "654a3d742bb6c3a91d1d7c09",
+      "name": "Cortenat Chocolate",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto1.png",
+      "price": 15000,
+      "quantity_sale": 2,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 30000
+    },
+    {
+      "product_id": "655adaba38665eeed0aef90a",
+      "name": "Choky Pop",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\choky.png",
+      "price": 13000,
+      "quantity_sale": 2,
+      "category_id": "654e661befa81cebae693f27",
+      "subtotal": 26000
+    },
+    {
+      "product_id": "655adbfc38665eeed0aef90b",
+      "name": "Rainbow Pop",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\rainbow.png",
+      "price": 12000,
+      "quantity_sale": 4,
+      "category_id": "654e661befa81cebae693f27",
+      "subtotal": 48000
+    }
+  ],
+  "total": 154000,
+  "status": 0,
+  "created_at": "07:56:12 AM, 23/11/2023",
+  "updated_at": "07:56:12 AM, 23/11/2023"
+},
+{
+  "_id": {
+    "$oid": "655eba34c0922b1da84bde7d"
+  },
+  "customer_id": {
+    "$oid": "65467deb502f2157fe0c8e21"
+  },
+  "name": "Hòa Diệp",
+  "phone": "0989765678",
+  "address": "Ấp Trường Khánh 2, Xã Long Thạnh",
+  "products": [
+    {
+      "product_id": "654a3e9f2bb6c3a91d1d7c0b",
+      "name": "Creamdea Fruitty",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\creamdea3.png",
+      "price": 65000,
+      "quantity_sale": 1,
+      "category_id": "654076f562ca687c4200307e",
+      "subtotal": 65000
+    },
+    {
+      "product_id": "654a3eef2bb6c3a91d1d7c0c",
+      "name": "Magnum Chocolate",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\magnum5.png",
+      "price": 75000,
+      "quantity_sale": 2,
+      "category_id": "654076e662ca687c4200307c",
+      "subtotal": 150000
+    }
+  ],
+  "total": 235000,
+  "status": 2,
+  "created_at": "09:34:28 AM, 23/11/2023",
+  "updated_at": "09:51:00 AM, 23/11/2023",
+  "accept_at": "09:50:35 AM, 23/11/2023",
+  "ship_at": "09:51:00 AM, 23/11/2023"
+},
+{
+  "_id": {
+    "$oid": "656056559845d27c4cb0cde1"
+  },
+  "customer_id": {
+    "$oid": "654072de2e9461bcd8ad5c2f"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067056",
+  "address": "26, ấp Trường Khánh 2, xã Long Thạnh, huyện Phụng Hiệp, tỉnh Hậu Giang",
+  "products": [
+    {
+      "product_id": "65478d998a4b078c9177fb45",
+      "name": "Caramel Au Beurre",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte1.png",
+      "price": 47000,
+      "quantity_sale": 2,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 94000
+    }
+  ],
+  "total": 114000,
+  "status": 2,
+  "created_at": "02:52:53 PM, 24/11/2023",
+  "updated_at": "02:53:17 PM, 24/11/2023",
+  "accept_at": "02:53:08 PM, 24/11/2023",
+  "ship_at": "02:53:17 PM, 24/11/2023"
+},
+{
+  "_id": {
+    "$oid": "65ddac07329672b4234b6675"
+  },
+  "customer_id": {
+    "$oid": "65ddab71329672b4234b6674"
+  },
+  "name": "Hòa Hoa",
+  "phone": "098909898",
+  "address": "Phụng Hiệp, Hậu Giang",
+  "products": [
+    {
+      "product_id": "65478dc68a4b078c9177fb46",
+      "name": "Au Chocolat Noir",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte2.png",
+      "price": 40000,
+      "quantity_sale": 3,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 120000
+    },
+    {
+      "product_id": "654a3f322bb6c3a91d1d7c0d",
+      "name": "Oreo Mint Frozen",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\oreo3.png",
+      "price": 80000,
+      "quantity_sale": 2,
+      "category_id": "654076db62ca687c4200307b",
+      "subtotal": 160000
+    }
+  ],
+  "total": 300000,
+  "status": 0,
+  "created_at": "04:31:51 PM, 27/02/2024",
+  "updated_at": "04:31:51 PM, 27/02/2024"
+},
+{
+  "_id": {
+    "$oid": "65e68c518b5751a492948cca"
+  },
+  "customer_id": {
+    "$oid": "65e68bb48b5751a492948cc9"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798067068",
+  "address": "Ninh Kiều, Cần Thơ",
+  "products": [
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Cornetto Vanilla",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto2.png",
+      "price": 16000,
+      "quantity_sale": 2,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 32000
+    },
+    {
+      "product_id": "654a3e9f2bb6c3a91d1d7c0b",
+      "name": "Creamdea Fruitty",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\creamdea3.png",
+      "price": 65000,
+      "quantity_sale": 1,
+      "category_id": "654076f562ca687c4200307e",
+      "subtotal": 65000
+    }
+  ],
+  "total": 117000,
+  "status": 0,
+  "created_at": "10:06:57 AM, 05/03/2024",
+  "updated_at": "10:06:57 AM, 05/03/2024"
+},
+{
+  "_id": {
+    "$oid": "65e693928b5751a492948ccc"
+  },
+  "customer_id": {
+    "$oid": "65e692e98b5751a492948ccb"
+  },
+  "name": "Hoa Hồng",
+  "phone": "0798009909",
+  "address": "Cái Răng, Cần Thơ",
+  "products": [
+    {
+      "product_id": "65478d998a4b078c9177fb45",
+      "name": "Caramel Au Beurre",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte1.png",
+      "price": 47000,
+      "quantity_sale": 2,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 94000
+    },
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Cornetto Vanilla",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto2.png",
+      "price": 16000,
+      "quantity_sale": 1,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 16000
+    }
+  ],
+  "total": 130000,
+  "status": 3,
+  "created_at": "10:37:54 AM, 05/03/2024",
+  "updated_at": "10:38:25 AM, 05/03/2024",
+  "cancle_at": "10:38:25 AM, 05/03/2024"
+},
+{
+  "_id": {
+    "$oid": "65e693cd8b5751a492948ccd"
+  },
+  "customer_id": {
+    "$oid": "65e692e98b5751a492948ccb"
+  },
+  "name": "Hoa Hoa",
+  "phone": "0798067099",
+  "address": "Cái Răng, Cần Thơ",
+  "products": [
+    {
+      "product_id": "65478df88a4b078c9177fb47",
+      "name": "Au Strawberry",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte3.png",
+      "price": 30000,
+      "quantity_sale": 2,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 60000
+    },
+    {
+      "product_id": "654a3eef2bb6c3a91d1d7c0c",
+      "name": "Magnum Chocolate",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\magnum5.png",
+      "price": 75000,
+      "quantity_sale": 1,
+      "category_id": "654076e662ca687c4200307c",
+      "subtotal": 75000
+    }
+  ],
+  "total": 155000,
+  "status": 4,
+  "created_at": "10:38:53 AM, 05/03/2024",
+  "updated_at": "10:44:47 AM, 05/03/2024",
+  "accept_at": "10:43:54 AM, 05/03/2024",
+  "ship_at": "10:44:15 AM, 05/03/2024",
+  "arrive_at": "10:44:47 AM, 05/03/2024"
+},
+{
+  "_id": {
+    "$oid": "65e699858b5751a492948cd1"
+  },
+  "customer_id": {
+    "$oid": "65e698ed8b5751a492948cd0"
+  },
+  "name": "Ngọc Ngọc",
+  "phone": "0798098098",
+  "address": "Cái Răng, Cần Thơ",
+  "products": [
+    {
+      "product_id": "65478d998a4b078c9177fb45",
+      "name": "Caramel Au Beurre",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte1.png",
+      "price": 47000,
+      "quantity_sale": 2,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 94000
+    },
+    {
+      "product_id": "654a375a2bb6c3a91d1d7c08",
+      "name": "A Vanille Cream",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte4.png",
+      "price": 60000,
+      "quantity_sale": 3,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 180000
+    }
+  ],
+  "total": 294000,
+  "status": 3,
+  "created_at": "11:03:17 AM, 05/03/2024",
+  "updated_at": "11:03:31 AM, 05/03/2024",
+  "cancle_at": "11:03:31 AM, 05/03/2024"
+},
+{
+  "_id": {
+    "$oid": "65e699b78b5751a492948cd2"
+  },
+  "customer_id": {
+    "$oid": "65e698ed8b5751a492948cd0"
+  },
+  "name": "Ngọc Trâm",
+  "phone": "0798098098",
+  "address": "Cái Răng, Cần Thơ",
+  "products": [
+    {
+      "product_id": "65478dc68a4b078c9177fb46",
+      "name": "Au Chocolat Noir",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\carte2.png",
+      "price": 40000,
+      "quantity_sale": 1,
+      "category_id": "654a367c2bb6c3a91d1d7c07",
+      "subtotal": 40000
+    },
+    {
+      "product_id": "654a3e352bb6c3a91d1d7c0a",
+      "name": "Cornetto Vanilla",
+      "description": "Ngọt ngào đến nghẹt thở",
+      "image": "uploads\\cornetto2.png",
+      "price": 16000,
+      "quantity_sale": 1,
+      "category_id": "654076ef62ca687c4200307d",
+      "subtotal": 16000
+    }
+  ],
+  "total": 76000,
+  "status": 4,
+  "created_at": "11:04:07 AM, 05/03/2024",
+  "updated_at": "11:07:18 AM, 05/03/2024",
+  "accept_at": "11:06:35 AM, 05/03/2024",
+  "ship_at": "11:06:46 AM, 05/03/2024",
+  "arrive_at": "11:07:18 AM, 05/03/2024"
+}]

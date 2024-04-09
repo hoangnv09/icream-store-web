@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "name": "Oreo Ice-cream",
+  "created_at": "10/31/2023, 10:39:07 AM",
+  "updated_at": "3/5/2024, 10:20:31 AM"
+},
+{
+  "_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "name": "Magnum Cream",
+  "created_at": "10/31/2023, 10:39:18 AM",
+  "updated_at": "11/7/2023, 8:05:35 PM"
+},
+{
+  "_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "name": "Cornetto Ice-cream",
+  "created_at": "10/31/2023, 10:39:27 AM",
+  "updated_at": "11/7/2023, 8:06:31 PM"
+},
+{
+  "_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "name": "Creamdea",
+  "created_at": "10/31/2023, 10:39:33 AM",
+  "updated_at": "11/7/2023, 8:06:52 PM"
+},
+{
+  "_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "name": "Carte Cream",
+  "created_at": "11/7/2023, 8:07:08 PM",
+  "updated_at": "11/7/2023, 8:07:08 PM"
+},
+{
+  "_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "name": "Vinamilk Cream",
+  "created_at": "11/11/2023, 12:19:23 AM",
+  "updated_at": "11/11/2023, 12:20:21 AM"
+}]

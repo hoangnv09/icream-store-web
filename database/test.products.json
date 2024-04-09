@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "65478d998a4b078c9177fb45"
+  },
+  "name": "Caramel Au Beurre",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "47000",
+  "image": "uploads\\carte1.png",
+  "quantity": 12,
+  "quantity_sale": 5,
+  "quantity_remain": 10,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "11/5/2023, 7:42:01 PM",
+  "updated_at": "11/20/2023, 11:12:14 AM"
+},
+{
+  "_id": {
+    "$oid": "65478dc68a4b078c9177fb46"
+  },
+  "name": "Au Chocolat Noir",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "40000",
+  "image": "uploads\\carte2.png",
+  "quantity": 10,
+  "quantity_sale": 7,
+  "quantity_remain": 6,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "11/5/2023, 7:42:46 PM",
+  "updated_at": "11/7/2023, 8:33:27 PM"
+},
+{
+  "_id": {
+    "$oid": "65478df88a4b078c9177fb47"
+  },
+  "name": "Au Strawberry",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "30000",
+  "image": "uploads\\carte3.png",
+  "quantity": 10,
+  "quantity_sale": 6,
+  "quantity_remain": 6,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "11/5/2023, 7:43:36 PM",
+  "updated_at": "11/7/2023, 8:34:10 PM"
+},
+{
+  "_id": {
+    "$oid": "654a375a2bb6c3a91d1d7c08"
+  },
+  "name": "A Vanille Cream",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "60000",
+  "image": "uploads\\carte4.png",
+  "quantity": 20,
+  "quantity_sale": 2,
+  "quantity_remain": 18,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "11/7/2023, 8:10:50 PM",
+  "updated_at": "11/7/2023, 8:34:44 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3d742bb6c3a91d1d7c09"
+  },
+  "name": "Cortenat Chocolate",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "15000",
+  "image": "uploads\\cornetto1.png",
+  "quantity": 30,
+  "quantity_sale": 0,
+  "quantity_remain": 30,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "11/7/2023, 8:36:52 PM",
+  "updated_at": "11/22/2023, 9:32:08 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3e352bb6c3a91d1d7c0a"
+  },
+  "name": "Cornetto Vanilla",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 16000,
+  "image": "uploads\\cornetto2.png",
+  "quantity": 20,
+  "quantity_sale": 7,
+  "quantity_remain": 13,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "11/7/2023, 8:40:05 PM",
+  "updated_at": "11/7/2023, 8:40:05 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3e9f2bb6c3a91d1d7c0b"
+  },
+  "name": "Creamdea Fruitty",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 65000,
+  "image": "uploads\\creamdea3.png",
+  "quantity": 20,
+  "quantity_sale": 3,
+  "quantity_remain": 17,
+  "category_id": {
+    "$oid": "654076f562ca687c4200307e"
+  },
+  "created_at": "11/7/2023, 8:41:51 PM",
+  "updated_at": "11/7/2023, 8:41:51 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3eef2bb6c3a91d1d7c0c"
+  },
+  "name": "Magnum Chocolate",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": "75000",
+  "image": "uploads\\magnum5.png",
+  "quantity": 30,
+  "quantity_sale": 5,
+  "quantity_remain": 25,
+  "category_id": {
+    "$oid": "654076e662ca687c4200307c"
+  },
+  "created_at": "11/7/2023, 8:43:11 PM",
+  "updated_at": "11/7/2023, 8:43:29 PM"
+},
+{
+  "_id": {
+    "$oid": "654a3f322bb6c3a91d1d7c0d"
+  },
+  "name": "Oreo Mint Frozen",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 80000,
+  "image": "uploads\\oreo3.png",
+  "quantity": 10,
+  "quantity_sale": 1,
+  "quantity_remain": 9,
+  "category_id": {
+    "$oid": "654076db62ca687c4200307b"
+  },
+  "created_at": "11/7/2023, 8:44:18 PM",
+  "updated_at": "11/7/2023, 8:44:18 PM"
+},
+{
+  "_id": {
+    "$oid": "655adaba38665eeed0aef90a"
+  },
+  "name": "Choky Pop",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 13000,
+  "image": "uploads\\choky.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "11/20/2023, 11:04:10 AM",
+  "updated_at": "11/20/2023, 11:04:10 AM"
+},
+{
+  "_id": {
+    "$oid": "655adbfc38665eeed0aef90b"
+  },
+  "name": "Rainbow Pop",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 12000,
+  "image": "uploads\\rainbow.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654e661befa81cebae693f27"
+  },
+  "created_at": "11/20/2023, 11:09:32 AM",
+  "updated_at": "11/20/2023, 11:09:32 AM"
+},
+{
+  "_id": {
+    "$oid": "655e0a2ac0922b1da84bde78"
+  },
+  "name": "Cornetto Dreamy",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 22000,
+  "image": "uploads\\cornetto4.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "11/22/2023, 9:03:22 PM",
+  "updated_at": "11/22/2023, 9:03:22 PM"
+},
+{
+  "_id": {
+    "$oid": "655e0a50c0922b1da84bde79"
+  },
+  "name": "Cornetto Cookie",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 24000,
+  "image": "uploads\\cornetto5.png",
+  "quantity": 20,
+  "quantity_sale": 0,
+  "quantity_remain": 20,
+  "category_id": {
+    "$oid": "654076ef62ca687c4200307d"
+  },
+  "created_at": "11/22/2023, 9:04:00 PM",
+  "updated_at": "11/22/2023, 9:04:00 PM"
+},
+{
+  "_id": {
+    "$oid": "65e69af38b5751a492948cd4"
+  },
+  "name": "Magnum Chocolate",
+  "description": "Ngọt ngào đến nghẹt thở",
+  "price": 120000,
+  "image": "uploads\\cola.png",
+  "quantity": 23,
+  "quantity_sale": 0,
+  "quantity_remain": 23,
+  "category_id": {
+    "$oid": "654a367c2bb6c3a91d1d7c07"
+  },
+  "created_at": "3/5/2024, 11:09:23 AM",
+  "updated_at": "3/5/2024, 11:09:23 AM"
+}]
